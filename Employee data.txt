@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "department": "Engineering",
+      "email": "johndoe@example.com",
+      "salary": 75000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 27,
+      "department": "Marketing",
+      "email": "janesmith@example.com",
+      "salary": 65000
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "age": 35,
+      "department": "Finance",
+      "email": "michaelj@example.com",
+      "salary": 80000
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "age": 29,
+      "department": "Human Resources",
+      "email": "emilyd@example.com",
+      "salary": 60000
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "age": 40,
+      "department": "Engineering",
+      "email": "davidb@example.com",
+      "salary": 90000
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "age": 33,
+      "department": "Sales",
+      "email": "sarahw@example.com",
+      "salary": 70000
+    },
+    {
+      "id": 7,
+      "name": "James Taylor",
+      "age": 38,
+      "department": "Customer Support",
+      "email": "jamest@example.com",
+      "salary": 55000
+    },
+    {
+      "id": 8,
+      "name": "Laura Martinez",
+      "age": 26,
+      "department": "Marketing",
+      "email": "lauram@example.com",
+      "salary": 62000
+    },
+    {
+      "id": 9,
+      "name": "Robert Anderson",
+      "age": 45,
+      "department": "Finance",
+      "email": "roberta@example.com",
+      "salary": 85000
+    },
+    {
+      "id": 10,
+      "name": "Olivia Thomas",
+      "age": 31,
+      "department": "Engineering",
+      "email": "oliviat@example.com",
+      "salary": 78000
+    }
+  ]
+}
